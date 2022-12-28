@@ -1,0 +1,53 @@
+body {
+    background: #0B2432;
+    padding: 30px;
+    color: white;
+}
+
+
+h1, p {
+    margin: 0;
+}
+.title {
+    margin: 40px 0px 0px 0px;    
+}
+
+.title2 {
+    margin-bottom: 6px;
+    color: #68CA99;
+}
+
+button {
+    margin-top: 50px;
+    padding: 8px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #68CA99;
+    color: #D6D6D6; 
+    font-size: 15px;
+}
+
+#line {
+    width: 350px;
+    height: 1px;
+    margin: 25px 0;
+    background: #203A5B;
+    text-align: center;
+}
+
+.password {
+    width: 155px;
+    background: #203A5B;
+    text-align: center;
+    color: #68CA99;
+    border: 0px solid;
+    border-radius: 5px;
+    padding: 8px;
+    margin-right: 20px;
+    font-size: 12px;
+}
+
+#generated-password {
+    display: flex;
+}
+
